@@ -3,7 +3,7 @@ import java.util.*;
 public class FestivalManager {
     public static void main(String[] args) {
         List<String> scaletta = new ArrayList<>();
-        TreeSet<String> ticketCodex = new TreeSet<>();
+        Set<String> ticketCodex = new TreeSet<>();
 
         scaletta.add("Glocky");
         scaletta.add("Lazza");
